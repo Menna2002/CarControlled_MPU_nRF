@@ -1,4 +1,4 @@
-# Car Controlled with MPU6050 and nRF24L01
+# Wireless Accelerometer Robot
 
 This project enables control of a car using an MPU6050 accelerometer and the nRF24L01 wireless module for communication between a master and slave Arduino.
 
