@@ -1,7 +1,7 @@
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
-RF24 radio(9, 10);
+RF24 radio(9, 8);
 
 #define IN1 7
 #define IN2 6
