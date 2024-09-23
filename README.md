@@ -53,3 +53,7 @@ The project consists of two Arduino sketches:
    - Stop ('S'): When no significant tilt is detected.
 4. The master Arduino sends these commands wirelessly to the slave Arduino.
 5. The slave Arduino receives commands and controls the motors accordingly.
+
+## Circuit
+![circuit](circuit.png)
+
