@@ -4,7 +4,7 @@
 #include <Wire.h>
 #include <MPU6050.h>
 MPU6050 mpu;
-RF24 radio(9, 10); // CE, CSN
+RF24 radio(9, 8); // CE, CSN
 const byte address[6] = "00001";
 char angle ;
 
